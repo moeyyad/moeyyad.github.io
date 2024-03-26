@@ -25,9 +25,21 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
+    name: "Mail",
+    href: "mailto:moeyyadqureshi@gmail.com",
+    linkTitle: `Send an email to ${SITE.title}`,
+    active: true,
+  },
+  {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/moeyyad/",
     linkTitle: `${SITE.title} on LinkedIn`,
+    active: true,
+  },
+  {
+    name: "Instagram",
+    href: "https://www.instagram.com/moeyyadqureshi/",
+    linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
   {
@@ -38,21 +50,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.facebook.com/moeyyad.qureshi/",
     linkTitle: `${SITE.title} on Facebook`,
     active: false,
-  },
-  {
-    name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Instagram`,
-    active: false,
-  },
-  {
-    name: "Mail",
-    href: "mailto:moeyyadqureshi@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
-    active: true,
   },
   {
     name: "Twitter",
