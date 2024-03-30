@@ -3,22 +3,21 @@ layout: ../layouts/AboutLayout.astro
 title: "Work"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## Elucidate
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+_"Learn to negotiate like a pro by playing mock negotiation games against AI"_
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Elucidate is a learning platform that helps users develop valuable communications skills (like public speaking or negotiation) through a practice-centered approach.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+**The problem we are trying to solve:** Developing strong communication skills are incredibly important to the lives and careers of so many people, and yet, it is so difficult to do.
 
-## Tech Stack
+We aren't launched yet. MVP is coming soon.
+
+## I Got 99 Problems
 
 This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
 
-## Features
+## Saint Joseph
 
 Here are certain features of this site.
 
@@ -34,3 +33,17 @@ Here are certain features of this site.
 
 If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
 Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+
+## Data Science Courses
+
+...
+
+## Trail Running
+
+...
+
+## Minor Projects
+
+- Photos
+- Spotify Calculator
+- Modern Kama Sutra

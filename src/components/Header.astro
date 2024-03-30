@@ -60,15 +60,20 @@ const { activeNav } = Astro.props;
               Work
             </a>
           </li>
+          <!-- Navigation to /posts/ will happen through /tags/
           <li>
             <a href="/posts/" class={activeNav === "posts" ? "active" : ""}>
               Posts
             </a>
           </li>
+          -->
           <li>
             <a href="/tags/" class={activeNav === "tags" ? "active" : ""}>
-              Tags
+              Writings
             </a>
+          </li>
+          <li>
+            <a href="https://www.moeyyad.com/photos/"> Photos </a>
           </li>
           <li>
             <LinkButton
