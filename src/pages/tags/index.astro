@@ -20,22 +20,18 @@ let tags = getUniqueTags(posts);
     <ul>
       {tags.map(({ tag }) => <Tag {tag} size="lg" />)}
     </ul>
+    <div class="mt-8">
+      <LinkButton href="/posts/">
+        <div class="border-solid border-2 p-2">
+          <span class="text-xl"> All Posts </span>
+          <svg xmlns="http://www.w3.org/2000/svg"
+            ><path
+              d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"
+            ></path>
+          </svg>
+        </div>
+      </LinkButton>
+    </div>
   </Main>
-  <div class="all-posts-btn-wrapper">
-    <LinkButton href="/posts/">
-      All Posts
-      <svg xmlns="http://www.w3.org/2000/svg"
-        ><path
-          d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"
-        ></path>
-      </svg>
-    </LinkButton>
-  </div>
   <Footer />
 </Layout>
-
-<style>
-  .all-posts-btn-wrapper {
-    @apply my-8 text-center;
-  }
-</style>
