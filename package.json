@@ -1,6 +1,6 @@
 {
-  "name": "personalsite",
-  "version": "4.2.0",
+  "name": "moeyyad.com",
+  "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
