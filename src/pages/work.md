@@ -3,11 +3,11 @@ layout: ../layouts/AboutLayout.astro
 title: "Work"
 ---
 
-## SendAll
+## Elucidate
 
-An email marketing tool that gives local businesses the power of a F500 sales team.
+An online learning platform that helps people learn to speak confidently and effectively.
 
-We are launching our MVP soon. In the meantime, you can [read more about it](https://moeyyad.com/posts/empowering-small-businesses).
+MVP is coming soon. Stay tuned!
 
 ## I Got 99 Problems
 
@@ -17,7 +17,7 @@ A podcast that investigates billion dollar problems and the startups that can co
 
 ## Saint Joseph
 
-Making first aid and CPR training more affordable, effective, and convenient for all Canadians.
+Making first aid and CPR training more affordable, effective, and convenient for all Canadians. Currently I'm working on an [AI tool](https://moeyyad.com/posts/empowering-small-businesses) to give them greater reach within the communities they are located.
 
 [Website](https://www.cpr-help.com)
 
